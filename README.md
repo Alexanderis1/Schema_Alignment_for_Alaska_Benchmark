@@ -1,2 +1,5 @@
 # Schema_Alignment_for_Alaska_Benchmark
-Tesi Tirocinio
+Lavoro per la Tesi di Alessandro Angelo Anzellini
+
+Prof. Paolo Merialdo
+Dott. Ing. Federico Piai
